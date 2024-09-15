@@ -2,3 +2,7 @@ baseURL = 'https://portfolio.maltby.dev'
 languageCode = 'en-gb'
 title = 'portfolio.maltby.dev'
 theme = 'hugo-theme-stack'
+
+[params]
+  [params.article]
+  readingTime = false
