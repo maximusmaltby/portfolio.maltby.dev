@@ -4,7 +4,7 @@ links:
   - title: maltby.dev
     description: https://maltby.dev
     website: https://maltby.dev
-    image: img/avatar.png
+    image: images/icon.webp
   - title: GitHub
     description: https://github.com/maximusmaltby
     website: https://github.com/maximusmaltby
