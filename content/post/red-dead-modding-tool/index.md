@@ -21,8 +21,10 @@ I decided to rename the program from LML Mod Conflict Checker Tool to Red Dead M
 
 There are two download options for RDMT:
 
-* **RDMT - Installer** The tool must be installed before you can run it.
-* **RDMT - Portable** Download and run, no need for installation.
+**RDMT - Installer**
+* The tool must be installed before you can run it.
+**RDMT - Portable**
+* Download and run, no need for installation.
 
 You only need to download one or the other.
 
@@ -32,8 +34,10 @@ Configuration is stored in "%AppData%\Red Dead Modding Tool"
 
 ---
 
-Installer: https://download.maltby.dev/rdmtinstaller
+**Installer**
+* https://download.maltby.dev/rdmtinstaller
 
-Portable: https://download.maltby.dev/rdmtportable
+**Portable**
+* https://download.maltby.dev/rdmtportable
 
 ---
