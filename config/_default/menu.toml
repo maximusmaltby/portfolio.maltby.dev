@@ -21,4 +21,4 @@ name = "LinkedIn"
 url = "https://www.linkedin.com/in/maximusmaltby"
 
 [social.params]
-icon = "brand-linkedin"
+icon = "user"

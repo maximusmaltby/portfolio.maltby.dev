@@ -1,0 +1,17 @@
+{
+    "name": "portfolio.maltby.dev",
+    "short_name": "portfolio.maltby.dev",
+    "description": "portfolio.maltby.dev",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#303030",
+    "theme_color": "#303030",
+    "icons": [
+      {
+        "src": "images/icon.webp",
+        "sizes": "512x512",
+        "type": "image/webp"
+      }
+    ]
+  }
+  
