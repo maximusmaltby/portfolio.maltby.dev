@@ -17,7 +17,7 @@ Configuration stored in %AppData%\KCD2MCC
 
 ---
 
-**Portable**<br>
+### Portable
 https://download.maltby.dev/kcd2mcc
 
 ---
