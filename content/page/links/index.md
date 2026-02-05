@@ -2,9 +2,13 @@
 title: Links
 links:
   - title: GitHub
-    description: GitHub is the world's largest software development platform.
+    description: https://github.com/maximusmaltby
     website: https://github.com/maximusmaltby
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+    image: https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg
+  - title: LinkedIn
+    description: https://www.linkedin.com/in/maximusmaltby
+    website: https://www.linkedin.com/in/maximusmaltby
+    image: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/3840px-LinkedIn_icon.svg.png
 menu:
     main: 
         weight: 4
