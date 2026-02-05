@@ -21,10 +21,9 @@ I decided to rename the program from LML Mod Conflict Checker Tool to Red Dead M
 
 There are two download options for RDMT:
 
-RDMT - Installer\n
-    - The tool must be installed before you can run it.\n
-RDMT - Portable\n
-    - Download and run, no need for installation.\n
+* **RDMT - Installer** The tool must be installed before you can run it.
+* **RDMT - Portable** Download and run, no need for installation.
+
 You only need to download one or the other.
 
 The installer will automatically remove any installations of LMCCT and update RDMT if you have previously installed either.
