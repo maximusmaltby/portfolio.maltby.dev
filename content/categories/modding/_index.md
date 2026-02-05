@@ -1,5 +1,5 @@
 ---
-title: C++
+title: Modding
 image:
 
 # Badge style
